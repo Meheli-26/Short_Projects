@@ -1,0 +1,36 @@
+*{
+    background-color: bisque;
+    margin: 10px;
+    padding: 10px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    /* background-color: red; */
+}
+#first{
+    display: flex;
+    justify-content: center;
+}
+#second{
+    display: flex;
+    justify-content: center;
+}
+#mul{
+    background-color: palevioletred;
+}
+#result{
+    position: absolute;
+    font-size: 30px;
+    top: 400px;
+}
